@@ -15,7 +15,6 @@ spec:
         ben: nice
         adin: alsonice
         greg: nice
-        john: nicely
     spec:
       containers:
       - image: gcr.io/heptio-images/ks-guestbook-demo:0.2
